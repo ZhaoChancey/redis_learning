@@ -21,5 +21,6 @@ public class TestPool {
             JedisPoolUtils.release(jedisPool, jedis);
         }
         System.out.println("新建");
+        System.out.println("更新");
     }
 }
