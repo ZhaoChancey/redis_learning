@@ -22,5 +22,6 @@ public class TestPool {
         }
         System.out.println("新建");
         System.out.println("更新");
+        System.out.println("remote");
     }
 }
